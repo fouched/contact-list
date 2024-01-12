@@ -6,7 +6,7 @@
 </script>
 
 <main>
-  <div class="container mx-auto max-w-xl items-center">
+  <div class="container mx-auto max-w-xl">
     <ContactForm />
     <ContactList />
   </div>
